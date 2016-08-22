@@ -1,0 +1,15 @@
+
+<?php 
+
+//java script
+?>
+<!-- font awsome-->
+<script src="https://use.fontawesome.com/f7970f00d7.js"></script>
+<!-- Jquery-->
+<script src="http://code.jquery.com/jquery-2.2.4.js"></script>
+
+<!-- Jquery UI -->
+<script src="http://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
