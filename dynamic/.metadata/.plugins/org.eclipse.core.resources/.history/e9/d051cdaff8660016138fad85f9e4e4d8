@@ -1,0 +1,12 @@
+<?php 
+
+//setup file
+
+//Database connection will exist here
+
+$database_connection = mysqli_connect('localhost', 'rayyan1', 'rayyan', 'users');
+$users_name= 'Rayyan';
+$password = 'Rayyan';
+
+
+?>

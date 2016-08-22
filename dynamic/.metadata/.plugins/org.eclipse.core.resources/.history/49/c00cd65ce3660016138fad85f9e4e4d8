@@ -1,0 +1,12 @@
+<?php 
+
+//setup file
+
+//Database connection will exist here
+
+
+$users_name= 'Rayyan';
+$password = 'Rayyan';
+
+
+?>
